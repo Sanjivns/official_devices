@@ -1,3 +1,9 @@
+AxionOS v1.5
+Build Date : 14/06/2025
+- Imported Missing Camera Library
+- Added more bpf patches
+- More misc changes
+
 AxionOS v1.4
 Build Date : 25/05/2025
 - Built Common FMRadio
