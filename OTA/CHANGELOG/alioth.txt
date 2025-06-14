@@ -1,3 +1,30 @@
+Changelogs For AxionAOSP v1.5 Update
+Build Date: 14/06/2025
+
+- Downgraded to old nO kernel fork
+
+- Updated leica to 5.0 from johnmart
+
+- Added missing Dirac prefernce strings
+
+- Build libartpalette
+ * F linker  : CANNOT LINK EXECUTABLE "/apex/com.android.art/bin/dex2oat64": library "libartpalette.so" not found: needed by main executable
+
+- Audio: Use QCOM implementation for audio effects
+ * AOSP effects doesn't give as thicc'n'sicc bass boost as the QC effects do.
+
+- Migrate to soong_config_set,camera,override_format_from_reserved
+
+- Move Lineage Health HAL to select()
+ * Its deprecated
+
+- Drop TARGET_INIT_VENDOR_LIB from common tree and move it to soong_config
+ * fixes nfc on alioth and baseband issue on aliothin
+
+- Updated cpuset placement on irq affinity
+
+- Other Little changes for better stability and bb 
+
 Changelogs For AxionAOSP v1.4 Update
 Build Date: 08/05/2025
 
