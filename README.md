@@ -39,8 +39,6 @@
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Redmi K60 Pro**          | `socrates`   |
-| **TECNO POVA 4 Pro**       | `LG8n`       |
-| **TECNO POVA 4**           | `LG7n`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
@@ -62,7 +60,6 @@
 - **[ꜱᴀɴᴊɪ | サンジ](https://github.com/Sanjivns)** (POCO F3/Mi 11X/Redmi K40)
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro/Pro Max)
-- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)
 - **[Byben](https://github.com/ramaadni)** (Redmi Note 13 Pro 5G / POCO X6 5G)
