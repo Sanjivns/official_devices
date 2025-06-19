@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749727703,
-            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-panther.zip",
-            "id": "6b45f9f0446b646c481a2b3543a746d8",
+            "datetime": 1750332945,
+            "filename": "axion-1.6-FINAL-20250619-OFFICIAL-VANILLA-panther.zip",
+            "id": "c9d27376a20c41f4f63b935631691ece",
             "romtype": "OFFICIAL",
-            "size": 1593064445,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5-Q2/axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-panther.zip",
-            "version": "1.5"
+            "size": 1593131977,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250619-OFFICIAL-VANILLA-panther.zip",
+            "version": "1.6"
         }
     ]
 }
