@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750334249,
-            "filename": "axion-1.6-FINAL-20250619-OFFICIAL-GMS-panther.zip",
-            "id": "3cd7b130cc5d29cb62a05eb2a01fcf34",
+            "datetime": 1750434219,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-panther.zip",
+            "id": "9cc5306fdfe3b6cf29e8d011a014ed8c",
             "romtype": "OFFICIAL",
-            "size": 1978347442,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250619-OFFICIAL-GMS-panther.zip",
+            "size": 1978332333,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-panther.zip",
             "version": "1.6"
         }
     ]
