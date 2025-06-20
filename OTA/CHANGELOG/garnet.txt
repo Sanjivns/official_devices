@@ -1,3 +1,21 @@
+AxionOS v1.6 Final
+Build Date : 20/06/2025
+- Switch to source built kernel,dtb and dtbo 
+- Added support for single click gesture 
+- Added XiaomiParts
+- Added Dolby Atmos
+- New implement bypass charging
+- Dropped a bunch of 32 bit blobs
+- Dropped ViperFX
+
+Notes:
+- Use global latest fw
+- Always include Miuicamera
+- Don't use custom kernel
+- Cleanflash recomended
+
+================================
+
 AxionOS v1.5
 Build Date : 12/06/2025
 - Update blobs from OS2.0.10.0.VNRMIXM
@@ -8,7 +26,7 @@ Build Date : 12/06/2025
 - Add support bypass charging
 - Define node fastcharging oem
 
-*Notes:
+Notes:
 - Use global latest fw
 - Include Micam and ViperFX
 
