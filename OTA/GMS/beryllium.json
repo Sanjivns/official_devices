@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749767205,
-            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-beryllium.zip",
-            "id": "4c4354c616851c8292a2088ca561154e",
+            "datetime": 1750425795,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-beryllium.zip",
+            "id": "9321d454a79d38fd7d875db3e7557b55",
             "romtype": "OFFICIAL",
-            "size": 1707357923,
-            "url": "https://sourceforge.net/projects/rve-rom/files/AxionAOSP/beryllium/axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-beryllium.zip/download",
-            "version": "1.5"
+            "size": 1709237219,
+            "url": "https://sourceforge.net/projects/rve-rom/files/AxionAOSP/beryllium/axion-1.6-FINAL-20250620-OFFICIAL-GMS-beryllium.zip/download",
+            "version": "1.6"
         }
     ]
 }
