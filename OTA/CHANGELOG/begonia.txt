@@ -1,3 +1,11 @@
+AxionOS v1.6
+Build Date : 20/06/2025
+- Final A15 Build
+- Silence HWUI logspam
+- Shut hwcomposer spam
+- Added Few More bpf patches
+- Few More misc changes
+
 AxionOS v1.5
 Build Date : 14/06/2025
 - Imported Missing Camera Library

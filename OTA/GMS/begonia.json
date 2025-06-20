@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749890964,
-            "filename": "axion-1.5-NIGHTLY-20250614-OFFICIAL-GMS-begonia.zip",
-            "id": "82b517aef914be0e9d974b18b4176a03",
+            "datetime": 1750424610,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-begonia.zip",
+            "id": "71c953f4116bae7270bef6a13bff38bb",
             "romtype": "OFFICIAL",
-            "size": 2042902975,
-            "url": "https://github.com/Saikrishna1504/OTA/releases/download/axion_1.5/axion-1.5-NIGHTLY-20250614-OFFICIAL-GMS-begonia.zip",
-            "version": "1.5"
+            "size": 2042883993,
+            "url": "https://github.com/Saikrishna1504/OTA/releases/download/axion_1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-begonia.zip",
+            "version": "1.6"
         }
     ]
 }
