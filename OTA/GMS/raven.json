@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750337285,
-            "filename": "axion-1.6-FINAL-20250619-OFFICIAL-GMS-raven.zip",
-            "id": "7191fe4cb16e4290458e98d3f80cd585",
+            "datetime": 1750461347,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-raven.zip",
+            "id": "b7021148b0e72367dcb56ff027895751",
             "romtype": "OFFICIAL",
-            "size": 1821867082,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250619-OFFICIAL-GMS-raven.zip",
+            "size": 1821854147,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-raven.zip",
             "version": "1.6"
         }
     ]

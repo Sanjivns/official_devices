@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750339763,
-            "filename": "axion-1.6-FINAL-20250619-OFFICIAL-GMS-oriole.zip",
-            "id": "51055c71c7f3c082c79a9d9c611d50b7",
+            "datetime": 1750464980,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-oriole.zip",
+            "id": "b044df57dfd573d2144d5167b8ebe47a",
             "romtype": "OFFICIAL",
-            "size": 1821541976,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250619-OFFICIAL-GMS-oriole.zip",
+            "size": 1821545145,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-oriole.zip",
             "version": "1.6"
         }
     ]
