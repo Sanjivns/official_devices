@@ -1,3 +1,16 @@
+Changelogs For AxionAOSP v1.6 Final Update
+Build Date: 22/06/2025
+
+- Add back 4.9 leica 
+
+- Add back missing OMX dolby codecs e.g eac3,ac3.ac4
+
+- Turned off audit config on kernel
+
+- Removed bootlager from device tree
+
+
+
 Changelogs For AxionAOSP v1.5 Update
 Build Date: 14/06/2025
 
