@@ -105,6 +105,13 @@
       "support_group": "https://t.me/superxornplayground",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9t-0.jpg"
     },
+        {
+      "device_name": "Mi 10T/Mi 10T pro",
+      "codename": "apollo",
+      "maintainer": "Murtaza Kolachi",
+      "support_group": "https://t.me/Murtazasapollocommunity",
+      "image_url": "https://www.bug.hr/img/xiaomi-mi-10t-serija-telefona-za-kreativce_oFqltN.png"
+    },
     {
       "device_name": "Mi 11X Pro/Mi 11i/Redmi K40 Pro+",
       "codename": "haydn",
