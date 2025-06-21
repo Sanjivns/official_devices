@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749907335,
-            "filename": "axion-1.5-NIGHTLY-20250614-OFFICIAL-VANILLA-alioth.zip",
-            "id": "ae50729b29cb4bb18ab7bef17486a7bb",
+            "datetime": 1750530517,
+            "filename": "axion-1.6-FINAL-20250621-OFFICIAL-VANILLA-alioth.zip",
+            "id": "69dc2a7230ad41286499715a465cf136",
             "romtype": "OFFICIAL",
-            "size": 1601135871,
-            "url": "https://sourceforge.net/projects/sanjis-releses/files/alioth/AxionAOSP/axion-1.5-NIGHTLY-20250614-OFFICIAL-VANILLA-alioth.zip/download",
-            "version": "1.5"
+            "size": 1616718808,
+            "url": "https://sourceforge.net/projects/sanjis-releses/files/alioth/AxionAOSP/axion-1.6-FINAL-20250621-OFFICIAL-VANILLA-alioth.zip/download",
+            "version": "1.6"
         }
     ]
 }

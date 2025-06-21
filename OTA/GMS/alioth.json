@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749897412,
-            "filename": "axion-1.5-NIGHTLY-20250614-OFFICIAL-GMS-alioth.zip",
-            "id": "913baf871ca45427886e8f8bb7619e34",
+            "datetime": 1750529210,
+            "filename": "axion-1.6-FINAL-20250621-OFFICIAL-GMS-alioth.zip",
+            "id": "5535d938f6885732a9ed9dcf587547f0",
             "romtype": "OFFICIAL",
-            "size": 1999179882,
-            "url": "https://sourceforge.net/projects/sanjis-releses/files/alioth/AxionAOSP/axion-1.5-NIGHTLY-20250614-OFFICIAL-GMS-alioth.zip/download",
-            "version": "1.5"
+            "size": 2014847143,
+            "url": "https://sourceforge.net/projects/sanjis-releses/files/alioth/AxionAOSP/axion-1.6-FINAL-20250621-OFFICIAL-GMS-alioth.zip/download",
+            "version": "1.6"
         }
     ]
 }
