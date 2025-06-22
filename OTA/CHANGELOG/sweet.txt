@@ -1,3 +1,12 @@
+AxionOS v1.6 FINAL
+Build Date : 06/21/2025
+- Bring back BCR
+- Disabled HID raw support
+- Bound iwlan and qns services to vendor.qti.iwlan
+- Implemented proper AIDL-based HALs
+- Added SystemUI restart option to the Advanced Power Menu
+- Various other minor improvements and optimizations
+
 AxionOS v1.5
 Build Date : 06/11/2025
 - Remove BCR
