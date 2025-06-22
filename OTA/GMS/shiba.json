@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749435412,
-            "filename": "axion-1.5-NIGHTLY-20250609-OFFICIAL-GMS-shiba.zip",
-            "id": "6c0b1212edcf3dbbeab9977a6acd1b4a",
+            "datetime": 1750519044,
+            "filename": "axion-1.6-FINAL-20250621-OFFICIAL-GMS-shiba.zip",
+            "id": "c6ad27924f7391d340937238c2ac5b57",
             "romtype": "OFFICIAL",
-            "size": 1893974755,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/shiba/1.x/gapps/axion-1.5-NIGHTLY-20250609-OFFICIAL-GMS-shiba.zip/download",
-            "version": "1.5"
+            "size": 2074877460,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/shiba/1.x/gapps/axion-1.6-FINAL-20250621-OFFICIAL-GMS-shiba.zip/download",
+            "version": "1.6"
         }
     ]
 }
