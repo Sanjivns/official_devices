@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1748535698,
-            "filename": "axion-1.4-NIGHTLY-20250529-OFFICIAL-GMS-pipa.zip",
-            "id": "0df282b9ac53fc5b1de7697d9fb07ef3",
+            "datetime": 1750604066,
+            "filename": "axion-1.6-FINAL-20250622-OFFICIAL-GMS-pipa.zip",
+            "id": "1846af19cb6f7308c38db1dde5efc14e",
             "romtype": "OFFICIAL",
-            "size": 1853470407,
-            "url": "https://github.com/rmuxnet/Axion-PIPA/releases/download/14.1/axion-1.4-NIGHTLY-20250529-OFFICIAL-GMS-pipa.zip",
-            "version": "1.4"
+            "size": 1854959657,
+            "url": "https://github.com/rmuxnet/Axion-PIPA/releases/download/1.6-final/axion-1.6-FINAL-20250622-OFFICIAL-GMS-pipa.zip",
+            "version": "1.6"
         }
     ]
 }
