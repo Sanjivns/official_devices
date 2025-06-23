@@ -41,6 +41,7 @@
 | **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Redmi K60 Pro**          | `socrates`   |
 | **Xiaomi Pad 6**           | `pipa`       |
+| **Xiaomi 11T Pro**         | `vili`       |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7 series - Open for Co-Maintainership (Pixel 6 series))
@@ -67,3 +68,4 @@
 - **[Byben](https://github.com/ramaadni)** (Redmi Note 13 Pro 5G / POCO X6 5G)
 - **[Hexdare](https://github.com/Hexdare)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro+)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
+- **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
